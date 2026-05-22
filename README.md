@@ -4,7 +4,7 @@
 ![DevOps](https://img.shields.io/badge/DevOps-Ready-blue)
 ![Automation](https://img.shields.io/badge/Automation-Enabled-blue)
 
-# Enterprise AI Workspace
+#Enterprise AI Workspace
 
 Enterprise-grade local AI platform installer for:
 
