@@ -1,5 +1,5 @@
 
-# Contributing to enterprise-ai-workspace
+# Contributing to Nexoryx_AI
 
 Contributions are welcome.
 

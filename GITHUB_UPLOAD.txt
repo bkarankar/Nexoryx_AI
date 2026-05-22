@@ -1,5 +1,5 @@
 1. Create a new repository on GitHub:
-   enterprise-ai-workspace
+   Nexoryx_AI
 
 2. Upload project:
 
@@ -7,7 +7,7 @@ git init
 git add .
 git commit -m "Initial commit"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/enterprise-ai-workspace.git
+git remote add origin https://github.com/bkarankar/Nexoryx_AI.git
 git push -u origin main
 
 3. Done.

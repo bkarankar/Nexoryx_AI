@@ -4,7 +4,7 @@
 ## Clone
 
 ```bash
-git clone https://github.com/bkarankar/enterprise-ai-workspace.git
+git clone https://github.com/bkarankar/Nexoryx_AI.git
 ```
 
 ## Deploy

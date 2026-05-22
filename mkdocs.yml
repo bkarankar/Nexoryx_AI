@@ -1,5 +1,5 @@
 
-site_name: enterprise-ai-workspace
+site_name: Nexoryx_AI
 nav:
   - Home: README.md
   - Architecture: docs/architecture.md
