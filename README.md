@@ -83,9 +83,9 @@ Recommended:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/enterprise-ai-workspace.git
+git clone [https://github.com/YOUR_USERNAME/enterprise-ai-workspace.git](https://github.com/bkarankar/Nexoryx_AI.git)
 
-cd enterprise-ai-workspace
+cd Nexoryx_AI
 ```
 
 ## Run Installer
