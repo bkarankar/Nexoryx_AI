@@ -1,6 +1,6 @@
-# Enterprise AI Workspace
+# Nexoryx AI Workspace
 
-Enterprise-grade local AI platform installer for:
+Nexoryx-grade local AI platform installer for:
 
 - WSL2
 - Ubuntu 24.04
@@ -45,7 +45,7 @@ Automatically installs:
 - deepseek-coder
 - codellama
 
-## Enterprise Features
+## Nexoryx Features
 
 - WSL2 networking fixes
 - Auto Docker setup
@@ -77,9 +77,9 @@ Recommended:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/enterprise-ai-workspace.git
+git clone https://github.com/bkarankar/Nexoryx_AI.git
 
-cd enterprise-ai-workspace
+cd Nexoryx-ai-workspace
 ```
 
 ## Run Installer
