@@ -1,0 +1,5 @@
+
+site_name: enterprise-ai-workspace
+nav:
+  - Home: README.md
+  - Architecture: docs/architecture.md

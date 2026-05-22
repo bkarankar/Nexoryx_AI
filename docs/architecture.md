@@ -1,3 +1,3 @@
-# Architecture
+# enterprise-ai-workspace Architecture
 
-Open WebUI -> Ollama -> AI Models
+Production-grade infrastructure automation.

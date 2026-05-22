@@ -1,6 +1,12 @@
-# Nexoryx AI Workspace
 
-Nexoryx-grade local AI platform installer for:
+![License](https://img.shields.io/badge/License-MIT-green)
+![Platform](https://img.shields.io/badge/Platform-Ubuntu-orange)
+![DevOps](https://img.shields.io/badge/DevOps-Ready-blue)
+![Automation](https://img.shields.io/badge/Automation-Enabled-blue)
+
+# Enterprise AI Workspace
+
+Enterprise-grade local AI platform installer for:
 
 - WSL2
 - Ubuntu 24.04
@@ -21,7 +27,6 @@ This installer automatically deploys:
 - Docker Compose Stack
 
 ---
-
 
 # Features
 
@@ -46,7 +51,7 @@ Automatically installs:
 - deepseek-coder
 - codellama
 
-## Nexoryx Features
+## Enterprise Features
 
 - WSL2 networking fixes
 - Auto Docker setup
@@ -78,9 +83,9 @@ Recommended:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/bkarankar/Nexoryx_AI.git
+git clone https://github.com/YOUR_USERNAME/enterprise-ai-workspace.git
 
-cd Nexoryx-ai-workspace
+cd enterprise-ai-workspace
 ```
 
 ## Run Installer
@@ -138,3 +143,30 @@ cd ~/ai-workspace
 # License
 
 MIT License
+
+
+## Project Roadmap
+
+- [ ] Kubernetes Helm charts
+- [ ] GitOps support
+- [ ] CI/CD improvements
+- [ ] Monitoring dashboards
+- [ ] Multi-cloud support
+- [ ] Security hardening
+
+## GitHub Actions
+
+This repository includes:
+- Shell validation
+- Markdown linting
+- Terraform validation (where applicable)
+
+## Example Deployments
+
+See:
+- examples/
+- docs/
+
+## Related Nexoryx Projects
+
+This repository is part of the Nexoryx infrastructure ecosystem.
